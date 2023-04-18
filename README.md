@@ -1,2 +1,2 @@
 # governance
-Repository for minutes and notes regarding the Data Carpentry Advisory Group
+Repository for minutes and notes regarding the Data Carpentry Governance Committee
