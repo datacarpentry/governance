@@ -82,4 +82,4 @@ Toby Hodges, Director of Curriculum
 
 [lpgc-handbook]: FIXME
 [minutes]: ./minutes/
-[topicbox]: https://carpentries.topicbox.com/groups/swc-governors/
+[topicbox]: https://carpentries.topicbox.com/groups/dc-governors/
